@@ -1,6 +1,6 @@
 # BrickRigs Modded Team
 
-We are indie devs from Poland, interested in generall preogramming.
+We are indie developers from Poland, interested in general programming.
 
 ## Projects we work on:
 
