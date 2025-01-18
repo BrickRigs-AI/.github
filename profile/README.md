@@ -30,6 +30,6 @@ We are indie developers from Poland, interested in general programming.
 - 👀 Door stuck.
 - 🐱‍👤 Coming out soon
 
-- **Air Traffic AI** (WIP):
+**Air Traffic AI** (WIP):
 -  ✈ AI Planes
 - 🐱‍👤 Coming out soon
